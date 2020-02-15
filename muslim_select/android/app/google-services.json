@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943460463388",
+    "firebase_url": "https://muslim-select.firebaseio.com",
+    "project_id": "muslim-select",
+    "storage_bucket": "muslim-select.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943460463388:android:1667dfa56aa4f4487000d9",
+        "android_client_info": {
+          "package_name": "set.fabsolutions.muslim_select"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943460463388-h717dv3bohcj9vmobtkpr81cfklvpc1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQR5i02JKmR5xGW4Ng9PvppK6m8LfHAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943460463388-h717dv3bohcj9vmobtkpr81cfklvpc1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

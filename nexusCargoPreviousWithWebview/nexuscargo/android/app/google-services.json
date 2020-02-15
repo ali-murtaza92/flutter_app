@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "880531844327",
+    "firebase_url": "https://nexuscargo-94429.firebaseio.com",
+    "project_id": "nexuscargo-94429",
+    "storage_bucket": "nexuscargo-94429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880531844327:android:c6114c16a3c361c5",
+        "android_client_info": {
+          "package_name": "uk.co.nexuscargo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880531844327-hve7po6asu8d4521lqgoi1bh4afdopvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.nexuscargo",
+            "certificate_hash": "0e86751828f1aeee5269be2c587ba157e7d876fc"
+          }
+        },
+        {
+          "client_id": "880531844327-i5s9jh7hqalngk1hb0pr9gkg8kqbvtlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM_dQFMLHdSZhAO3Y20jSsG_2tJugiQYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880531844327-i5s9jh7hqalngk1hb0pr9gkg8kqbvtlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880531844327-aali9qbi3a3uk59mn24fra8juq7irhf0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uk.co.nexuscargo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
